@@ -12,4 +12,4 @@ Each time you refresh the page, two dice are rolled and the winner is decided au
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YourUsername/Dice-Game-Project.git
+   git clone https://github.com/Venkadeshs003/Dice-Game-Project.git
